@@ -22,4 +22,4 @@ WHERE
 ORDER BY
 	Department;
 ```
-工资前三名的员工，可理解为：在该部门中比这三名员工中任一位工资高的人不超过3人，据此便可作为WHERE条件，加上 DepartmentId 连接，便可找出一个 Department 中工资前三的员工记录，最后再与 Department 表内连接，列出部门名称即可；
+- 工资前三名的员工，可理解为：在该部门中比这三名员工中任一位工资高的人不超过3人，据此便可作为WHERE条件，加上 DepartmentId 连接，便可找出一个 Department 中工资前三的员工记录，最后再与 Department 表内连接，列出部门名称即可；

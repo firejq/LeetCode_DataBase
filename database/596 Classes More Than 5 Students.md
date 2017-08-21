@@ -10,4 +10,4 @@ GROUP BY
 HAVING
 	COUNT(DISTINCT student) >= 5;
 ```
-`WHERE` 子句用于筛选行记录，筛选分组要使用 `HAVING` 子句；
+- `WHERE` 子句用于筛选行记录，筛选分组要使用 `HAVING` 子句；

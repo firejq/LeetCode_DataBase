@@ -18,5 +18,5 @@ AND (E.DepartmentId, E.Salary) IN (
 		DepartmentId
 );
 ```
-将Employee表按照DepartmentId分组，再将各组中Salary最高的对应Id和该Salary组成一个集合，即各Department中最高Salary的集合；
+- 将Employee表按照DepartmentId分组，再将各组中Salary最高的对应Id和该Salary组成一个集合，即各Department中最高Salary的集合；
 再逐一判断employee的id和Salary是否在该集合中即可；

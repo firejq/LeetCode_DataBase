@@ -31,7 +31,7 @@ AND (
 ORDER BY
 	t1.id;
 ```
-自联结查询
-由于需要列出匹配的所有记录，因此此处的t1需能匹配到第一天、第二天、第三天……直到连续最后一天的所有情况；
-若 `SELECT DISTINCT t1.*` 中的 `t1` 替换成 `tx`，则 WHERE 子句中的条件需要相应地做出改变；
-类似题目（简单）：[180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/)
+- 自联结查询   
+- 由于需要列出匹配的所有记录，因此此处的t1需能匹配到第一天、第二天、第三天……直到连续最后一天的所有情况；
+-   若 `SELECT DISTINCT t1.*` 中的 `t1` 替换成 `tx`，则 WHERE 子句中的条件需要相应地做出改变；
+- 类似题目（简单）：[180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/)

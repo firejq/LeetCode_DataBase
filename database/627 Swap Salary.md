@@ -8,4 +8,4 @@ SET
         ELSE 'm'
     END;
 ```
-使用 [`CASE WHEN`](https://dev.mysql.com/doc/refman/5.7/en/control-flow-functions.html#operator_case) 流程控制
+- 使用 [`CASE WHEN`](https://dev.mysql.com/doc/refman/5.7/en/control-flow-functions.html#operator_case) 流程控制

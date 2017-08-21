@@ -26,4 +26,4 @@ RETURN (
 
 END
 ```
-limit后不能直接写N-1，因为limit后面不能接表达式；
+- limit后不能直接写N-1，因为limit后面不能接表达式；

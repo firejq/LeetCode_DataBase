@@ -20,5 +20,5 @@ ORDER BY
 	t.Request_at;
 ```
 
-先筛选出符合条件的 trip 记录，然后按日期进行分组，再分别计算各组的 Cancellation Rate；
-计算 Cancellation Rate 时，使用 [`IF(expr1,expr2,expr3)`](https://dev.mysql.com/doc/refman/5.7/en/control-flow-functions.html#function_if) 函数、`ROUND()` 函数、`sum()` 函数；
+ - 先筛选出符合条件的 trip 记录，然后按日期进行分组，再分别计算各组的 Cancellation Rate；
+ - 计算 Cancellation Rate 时，使用 [`IF(expr1,expr2,expr3)`](https://dev.mysql.com/doc/refman/5.7/en/control-flow-functions.html#function_if) 函数、`ROUND()` 函数、`sum()` 函数；

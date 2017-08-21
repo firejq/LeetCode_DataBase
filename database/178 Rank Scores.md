@@ -22,7 +22,7 @@ FROM
 ORDER BY
 	Score DESC
 ```
-对每一个Score，找出>=它的score的数量，这个数量就是Rank；
+- 对每一个Score，找出>=它的score的数量，这个数量就是Rank；
 
 
 方法二：
@@ -45,4 +45,4 @@ ORDER BY
 	Scores.Score DESC;
 ```
 
-求得每个Score与大于等于该Score的内连接表，再按照id分组，统计即可；
+- 求得每个Score与大于等于该Score的内连接表，再按照id分组，统计即可；
