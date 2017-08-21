@@ -1,4 +1,4 @@
-## 	196	Delete Duplicate Emails    ##
+## 	[196	Delete Duplicate Emails ](https://leetcode.com/problems/delete-duplicate-emails)   ##
 ```
 # Write your MySQL query statement below
 DELETE p1

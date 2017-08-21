@@ -1,4 +1,4 @@
-## 182. Duplicate Emails ##
+## [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails) ##
 方式一：
 ```
 # Write your MySQL query statement below

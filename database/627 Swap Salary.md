@@ -1,4 +1,4 @@
-## 627	Swap Salary ##
+## [627	Swap Salary](https://leetcode.com/problems/swap-salary) ##
 ```
 # Write your MySQL query statement below
 UPDATE salary

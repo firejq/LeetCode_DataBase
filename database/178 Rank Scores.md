@@ -1,4 +1,4 @@
-## 178	Rank Scores ##
+## [178	Rank Scores](https://leetcode.com/problems/rank-scores) ##
 方法一：
 ```
 # Write your MySQL query statement below
