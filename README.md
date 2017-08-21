@@ -1,6 +1,6 @@
 # leetcode_database
 
-Solution for [leetcode database problem](https://leetcode.com/problemset/database/)
+Solution to [leetcode database problem](https://leetcode.com/problemset/database/)
 
 |  #   | Title                                    | Difficulty |
 | :--: | :--------------------------------------- | :--------- |
