@@ -1,6 +1,8 @@
-# leetcode_database
+# LeetCode Solution
 
-Solution to [leetcode database problem](https://leetcode.com/problemset/database/)
+## Database
+
+Solution to [LeetCode database problem](https://leetcode.com/problemset/database/)
 
 |  #   | Title                                    | Difficulty |
 | :--: | :--------------------------------------- | :--------- |
@@ -23,3 +25,10 @@ Solution to [leetcode database problem](https://leetcode.com/problemset/database
 | 620  |[ Not Boring Movies ](https://github.com/firejq/LeetCode_DataBase/blob/master/database/620%20Not%20Boring%20Movies.md)                       | Easy       |
 | 627  | [Swap Salary](https://github.com/firejq/LeetCode_DataBase/blob/master/database/627%20Swap%20Salary.md)                              | Easy       |
 
+## Algorithm
+
+Solution to [LeetCode algorithm problem](https://leetcode.com/problemset/algorithm/)
+
+|  #   | Title                                    | Difficulty |
+| :--: | :--------------------------------------- | :--------- |
+|   |                        |         |
